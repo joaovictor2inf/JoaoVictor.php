@@ -1,17 +1,20 @@
 <?php
+
+
+include "./assets/doctype.php";
+
 ?>
 
-<DOCTYPE html>
+<title>Pagina principal</title>
 
-<html>
+<link real="stylesheet" href="./assets/style/style_header.css">
 
-<head>
-<body>
-
-<?php
-  include "./assets/includs/header.php";
-?>
-
-</body>
 </head>
-</html>
+<body>
+<?php
+
+include "./assets/includes/header.php";
+include "./assets/includes/navigation.php";
+
+?>
+</body>
