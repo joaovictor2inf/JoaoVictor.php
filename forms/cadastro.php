@@ -4,12 +4,12 @@
 
    <title> Formulario de cadastro </title>
 
-</head>
+</head>;
 
 <body>
 <?php
-include "../asstes/includes/header.php";
-include "../asstes/includes/navigation.Menu.php";
+include "../assets/includes/header.php";
+include "../assets/includes/navigationMenu.php";
 ?>
 
 <form class="row g-3">
@@ -58,4 +58,4 @@ include "../asstes/includes/navigation.Menu.php";
 </form>
 </body>
 
-</head>
+</head>;
